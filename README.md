@@ -1,0 +1,2 @@
+# OEMN15-1082TX_Hackintosh-EFI
+仅适用于I59750H RTX2070maxq intel9560NGW的暗影精灵5进入系统之后请前往nullmoth项目下方获取NVIDIA显卡驱动
